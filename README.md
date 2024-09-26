@@ -8,5 +8,3 @@ In this video, I walk you through how to create a simple user registration syste
 This tutorial is perfect for anyone looking to get started with Flask and database management using SQLAlchemy!
 
 Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/vdeohEPPS-I)
-
-#Flask #SQLAlchemy #Python #WebDevelopment #UserRegistration #CodingInHindi #Database #Tutorial #PythonWeb
